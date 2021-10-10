@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "alias": "devil3",
+      "contract_address": "0x6ee86436ff740be0cca40017194e1ebb5481affa",
+      "id": "1z9o2aCslklvNvhzJsA7uS1mcLN",
+      "name": "DEVIL3"
+    },
+    {
+      "alias": "angel5",
+      "contract_address": "0x430be1f946eb31e6839f62d72f7bca5ac2de250a",
+      "id": "1z9o2UwIHLNFPbQBeEH3fMOKz2h",
+      "name": "ANGEL5"
+    },
+    {
+      "alias": "scbx10",
+      "contract_address": "0xe1ec4b06b5130583baad0de5ea46f68a697bc344",
+      "id": "1z9o2WozWvQHvPbc1hbCPQP9Oyg",
+      "name": "SCBX10"
+    }
+  ],
+  "total": 3
+}

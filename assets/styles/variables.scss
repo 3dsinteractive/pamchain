@@ -1,0 +1,21 @@
+@import '~vuetify/src/components/VStepper/_variables.scss';
+@import '~vuetify/src/components/VChip/_variables.scss';
+$menu-content-elevation: 0;
+$menu-content-border-radius: 8px;
+$text-field-outlined-fieldset-border: 1px solid inherit;
+$border-radius-root: 50%;
+$btn-toggle-border-radius: $border-radius-root;
+$chip-label-border-radius: 4px;
+
+//Platform Color
+$primary: #47EACC;
+$secondary: #F9B43C;
+$tertiary:	#F9693C;
+$error: #EA6447;
+$success: #47EA9C;
+$background: #393C3E;
+$background-light: #4A4E51;
+$accent: #A5A7A8;
+$main-dark: #1D1F20;
+$main-light: #4A4E51;
+$text: #FFFFFF;

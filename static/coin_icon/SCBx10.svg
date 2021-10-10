@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1255px" height="1255px" viewBox="0 0 1255 1255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>scbx10</title>
+    <defs>
+        <linearGradient x1="29.2961933%" y1="6.59832247%" x2="86.5956962%" y2="90.3056798%" id="linearGradient-1">
+            <stop stop-color="#8E49BB" offset="0%"></stop>
+            <stop stop-color="#8D48BB" offset="48.4284514%"></stop>
+            <stop stop-color="#623087" offset="48.9816092%"></stop>
+            <stop stop-color="#552386" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="scbx10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1229,627.5 C1229,959.700807 959.700807,1229 627.5,1229 C295.302517,1229 26,959.700807 26,627.5 C26,295.302517 295.302517,26 627.5,26 C959.700807,26 1229,295.302517 1229,627.5" id="Fill-1" fill="url(#linearGradient-1)"></path>
+        <text id="SCB" font-family="Helvetica-Bold, Helvetica" font-size="476" font-weight="bold">
+            <tspan x="125.003906" y="747" fill="#FFFFFF">S</tspan>
+            <tspan x="442.492188" y="747" fill="#FFAA00">C</tspan>
+            <tspan x="786.244141" y="747" fill="#FFFFFF">B</tspan>
+        </text>
+        <text id="x10" font-family="Helvetica-Bold, Helvetica" font-size="272" font-weight="bold">
+            <tspan x="441.089844" y="1010" fill="#FFAA00">x</tspan>
+            <tspan x="592.363281" y="1010" fill="#FFFFFF">10</tspan>
+        </text>
+    </g>
+</svg>

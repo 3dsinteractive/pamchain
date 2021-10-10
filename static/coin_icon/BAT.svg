@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BAT</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BAT" fill-rule="nonzero">
+            <polygon id="Path" fill="#662D91" points="24 20.9711693 12.05748 14.0095288 0 21"></polygon>
+            <polygon id="Path" fill="#9E1F63" points="12.06132 0 12.05748 14.0095288 24 20.9711693"></polygon>
+            <polygon id="Path" fill="#FF5000" points="0 21 12.05748 14.0095288 12.06132 0"></polygon>
+            <polygon id="Path" stroke="#FF5000" stroke-width="0.5" fill="#FFFFFF" points="12.033 8.49858639 7.1028 16.8820942 16.98528 16.8820942"></polygon>
+        </g>
+    </g>
+</svg>

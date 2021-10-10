@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MANA</title>
+    <defs>
+        <linearGradient x1="85.355%" y1="14.645%" x2="14.645%" y2="85.355%" id="linearGradient-1">
+            <stop stop-color="#FF2D55" offset="0%"></stop>
+            <stop stop-color="#FFBC5B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.966%" y1="0%" x2="49.966%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#A524B3" offset="0%"></stop>
+            <stop stop-color="#FF2D55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MANA" fill-rule="nonzero">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="12" cy="12" r="12"></circle>
+            <polygon id="Path" fill="url(#linearGradient-2)" points="8.502 7.8 8.502 16.8 16.002 16.8"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="1.002 16.8 8.502 16.8 8.502 7.8"></polygon>
+            <path d="M2.4,19.2 C3.084,20.106 3.894,20.916 4.8,21.6 L19.2,21.6 C20.106,20.916 20.916,20.106 21.6,19.2 L2.4,19.2 Z" id="Path" fill="#FC9965"></path>
+            <path d="M4.8,21.6 C6.804,23.106 9.3,24 12,24 C14.7,24 17.196,23.106 19.2,21.6 L4.8,21.6 Z" id="Path" fill="#FF2D55"></path>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="16.098 12.6 16.098 19.2 21.6 19.2"></polygon>
+            <path d="M16.098,16.8 L1.002,16.8 C1.374,17.658 1.848,18.462 2.4,19.2 L16.104,19.2 L16.104,16.8 L16.098,16.8 L16.098,16.8 Z" id="Path" fill="#FFBC5B"></path>
+            <polygon id="Path" fill="#FFFFFF" points="10.602 19.2 16.098 19.2 16.098 12.6"></polygon>
+            <circle id="Oval" fill="#FFC95B" cx="16.098" cy="7.8" r="3"></circle>
+            <circle id="Oval" fill="#FFC95B" cx="8.502" cy="4.5" r="1.5"></circle>
+        </g>
+    </g>
+</svg>
